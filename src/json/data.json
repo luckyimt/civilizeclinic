@@ -1,0 +1,290 @@
+{
+  "categories": [
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 1",
+      "price": "8",
+      "imageUrl": "./media/case-review/1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 3",
+      "price": "10",
+      "imageUrl": "./media/case-review/3.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 4",
+      "price": "12",
+      "imageUrl": "./media/case-review/4.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 5",
+      "price": "12",
+      "imageUrl": "./media/case-review/5.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 6",
+      "price": "12",
+      "imageUrl": "./media/case-review/6.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 7",
+      "price": "12",
+      "imageUrl": "./media/case-review/7.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 8",
+      "price": "12",
+      "imageUrl": "./media/case-review/8.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 9",
+      "price": "12",
+      "imageUrl": "./media/case-review/9.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 10",
+      "price": "12",
+      "imageUrl": "./media/case-review/10.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 11",
+      "price": "12",
+      "imageUrl": "./media/case-review/11.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 12",
+      "price": "12",
+      "imageUrl": "./media/case-review/12.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 13",
+      "price": "12",
+      "imageUrl": "./media/case-review/13.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 14",
+      "price": "12",
+      "imageUrl": "./media/case-review/14.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 15",
+      "price": "12",
+      "imageUrl": "./media/case-review/15.jpg"    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 16",
+      "price": "12",
+      "imageUrl": "./media/case-review/16.jpg"    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 17",
+      "price": "12",
+      "imageUrl": "./media/case-review/17.jpg"    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 19",
+      "price": "12",
+      "imageUrl": "./media/case-review/19.jpg"    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "case 21",
+      "price": "12",
+      "imageUrl": "./media/case-review/21.jpg"    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model1",
+      "price": "5",
+      "imageUrl": "./media/model/1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model2",
+      "price": "5",
+      "imageUrl": "./media/model/2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model3",
+      "price": "5",
+      "imageUrl": "./media/model/3.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model4",
+      "price": "5",
+      "imageUrl": "./media/model/4.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model5",
+      "price": "5",
+      "imageUrl": "./media/model/5.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model6",
+      "price": "5",
+      "imageUrl": "./media/model/6.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model7",
+      "price": "5",
+      "imageUrl": "./media/model/7.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model8",
+      "price": "5",
+      "imageUrl": "./media/model/8.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model9",
+      "price": "5",
+      "imageUrl": "./media/model/9.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model11",
+      "price": "5",
+      "imageUrl": "./media/model/11.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model12",
+      "price": "5",
+      "imageUrl": "./media/model/12.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model13",
+      "price": "5",
+      "imageUrl": "./media/model/13.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model14",
+      "price": "5",
+      "imageUrl": "./media/model/14.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model15",
+      "price": "5",
+      "imageUrl": "./media/model/15.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model16",
+      "price": "5",
+      "imageUrl": "./media/model/16.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Model",
+      "title": "Model17",
+      "price": "5",
+      "imageUrl": "./media/model/17.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "cast-Star",
+      "title": "Cast-Star1",
+      "price": "5",
+      "imageUrl": "./media/cast-star/1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "cast-Star",
+      "title": "Cast-Star2",
+      "price": "5",
+      "imageUrl": "./media/cast-star/2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "cast-Star",
+      "title": "Cast-Star3",
+      "price": "5",
+      "imageUrl": "./media/cast-star/3.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "cast-Star",
+      "title": "Cast-Star4",
+      "price": "5",
+      "imageUrl": "./media/cast-star/4.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "cast-Star",
+      "title": "Cast-Star5",
+      "price": "5",
+      "imageUrl": "./media/cast-star/5.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "cast-Star",
+      "title": "Cast-Star6",
+      "price": "5",
+      "imageUrl": "./media/cast-star/6.jpg"
+    }
+   
+  ],
+  "catalogs": [
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/catalogs/1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/catalogs/2.jpg"
+    }
+  ]
+}

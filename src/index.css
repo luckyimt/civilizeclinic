@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+html {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+
+
+h1,
+h2,
+h3,
+p {
+  line-height: 140%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+section {
+  scroll-snap-align: center;
+  overflow: hidden;
+}
+
+
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
